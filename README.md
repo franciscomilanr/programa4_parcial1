@@ -11,6 +11,7 @@
 <ul>
  <li> Entrada de datos con scanf</li>
  <li> Salida de datos con printf </li>
+ <li> Variables flotante </li>
  <li> Operaciones matematicas </li>
  </ul>
  <br>
