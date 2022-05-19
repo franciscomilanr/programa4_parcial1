@@ -1,12 +1,20 @@
 # programa4_parcial1
 
+<li><b>Autor: </b> Franciscomilan</li>
+ <li><b>Fecha: </b>03/02/2022</li>
+ <li><b>Escuela: </b>Universidad uvm</li>
+ <li><b>Profesor: </b>Armando Cruz</li>
+ <li><b>Materia: </b>Programacion estructurada</li>
+ <li><b>Ciclo: </b>01/2022</li>
+ <br>
+<li><b>En este programa se muestra el uso de: </b></li>
 <ul>
-<li>Autor: Franciscomilan</li>
- <li>Escuela: Universidad uvm</li>
- <li>Profesor: Armando Cruz</li>
- <li>Materia: Programacion estructurada</li>
- <li>Fecha: 03/02/2022</li>
- <li>Ciclo: 01/2022</li>
-
-<li>Descripción:Cuarto programa en C que calcula el area del circulo para la materia programacion estructurada </li>
+ <li> Entrada de datos con scanf</li>
+ <li> Salida de datos con printf </li>
+ <li> Operaciones matematicas </li>
+ </ul>
+ <br>
+ <li><b> Objetivo </b> Calcular el area del circulo con los datos ingresados y mostrandolos en pantalla </li>
+ <br>
+<li><b>Breve descripción:</b> Cuarto programa en C que calcula el area del circulo para la materia programacion estructurada </li>
  
